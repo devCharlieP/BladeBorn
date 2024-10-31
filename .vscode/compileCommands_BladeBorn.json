@@ -1,5 +1,53 @@
 [
 	{
+		"file": "D:\\UE5CPP\\BladeBorn\\Source\\BladeBorn\\BBCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UE5CPP\\BladeBorn\\.vscode\\compileCommands_BladeBorn\\BladeBorn.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE5CPP\\BladeBorn\\Source\\BladeBorn\\BBCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UE5CPP\\BladeBorn\\.vscode\\compileCommands_BladeBorn\\BladeBorn.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE5CPP\\BladeBorn\\Source\\BladeBorn\\BBGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UE5CPP\\BladeBorn\\.vscode\\compileCommands_BladeBorn\\BladeBorn.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE5CPP\\BladeBorn\\Source\\BladeBorn\\BBGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UE5CPP\\BladeBorn\\.vscode\\compileCommands_BladeBorn\\BladeBorn.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE5CPP\\BladeBorn\\Source\\BladeBorn\\BBPlayerController.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UE5CPP\\BladeBorn\\.vscode\\compileCommands_BladeBorn\\BladeBorn.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "D:\\UE5CPP\\BladeBorn\\Source\\BladeBorn\\BBPlayerController.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
+			"@D:\\UE5CPP\\BladeBorn\\.vscode\\compileCommands_BladeBorn\\BladeBorn.261.rsp"
+		],
+		"directory": "C:\\Program Files\\Epic Games\\UE_5.2\\Engine\\Source"
+	},
+	{
 		"file": "D:\\UE5CPP\\BladeBorn\\Source\\BladeBorn\\BladeBorn.Build.cs",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.40.33807\\bin\\Hostx64\\x64\\cl.exe",
